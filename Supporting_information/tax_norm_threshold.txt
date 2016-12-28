@@ -1,0 +1,6 @@
+tax_id	threshold	organism
+5833	36.89212	Plasmodium falciparum
+5664	30.63388	Leishmania major
+5691	29.04432	Trypanosoma brucei
+5693	29.04432	Trypanosoma cruzi
+272561	35.31996	Chlamidia trachomatis
