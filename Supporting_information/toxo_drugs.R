@@ -1,4 +1,4 @@
-q_toxo_drugs = "select distinct md.pref_name, md.chembl_id, mechanism_of_action
+q_toxo_drugs = "select distinct md.pref_name, md.chembl_id, mechanism_of_action, site_name
 FROM blast_statistics bs
 , tax_norm_threshold t
 , target_components tc
