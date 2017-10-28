@@ -1,3 +1,7 @@
+library(RPostgreSQL)
+drv=dbDriver('PostgreSQL')
+con=dbConnect(drv,dbname='chembl_20',port=5432,host='localhost',user='mychembl')
+
 q_toxo="
 select max(bs.score) score, chembl_id, target_type, organism, targets.tax_id, targets.targ_comp, site_name
 from
@@ -7,7 +11,7 @@ from blast_statistics bs
 , target_dictionary td
 , tax_norm_threshold tnt
 , binding_sites bind
-where bs.tax_id=508771
+where bs.tax_id=5811
   and bs.tax_id = tnt.tax_id
   and bs.score > tnt.threshold
   and bs.expect < .001
