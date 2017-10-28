@@ -1,3 +1,7 @@
+library(RPostgreSQL)
+drv=dbDriver('PostgreSQL')
+con=dbConnect(drv,dbname='chembl_20',port=5432,host='localhost',user='mychembl')
+
 q_toxo_drugs = "select distinct md.pref_name, md.chembl_id, mechanism_of_action, site_name
 FROM blast_statistics bs
 , tax_norm_threshold t

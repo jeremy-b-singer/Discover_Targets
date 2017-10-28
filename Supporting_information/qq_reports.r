@@ -1,3 +1,7 @@
+library(RPostgreSQL)
+drv=dbDriver('PostgreSQL')
+con=dbConnect(drv,dbname='chembl_20',port=5432,host='localhost',user='mychembl')
+
 report_full_distribution<-function(tax_id,organism){
   query=paste("select score from blast_statistics where tax_id=",tax_id)
   rs=dbSendQuery(con,query)
