@@ -1,0 +1,281 @@
+Cross species Targets for  Toxoplasmosis Gondii (tax_id = 5811) with discriminant threshold for score of 29.04780,,,,,,
+score,chembl_id,target_type,organism,tax_id,targ_comp,site_name
+1922,CHEMBL2010636,SINGLE PROTEIN,Trypanosoma brucei,5691,5825,"Class 1 phosphodiesterase PDEB1, PDEase_I domain"
+1901,CHEMBL2169733,SINGLE PROTEIN,Leishmania major,5664,6883,"Class I phosphodiesterase PDEB1, PDEase_I domain"
+1662,CHEMBL4386,SINGLE PROTEIN,Trypanosoma brucei,5691,2702,"Vacuolar-type proton translocating pyrophosphatase 1, H_PPase domain"
+1389,CHEMBL2052035,SINGLE PROTEIN,Plasmodium falciparum,5833,5872,"Subtilisin-like protease, Peptidase_S8 domain"
+1344,CHEMBL2364672,PROTEIN COMPLEX,Bacteria,2,7858,RNA polymerase beta/beta prime subunit
+1174,CHEMBL2169724,SINGLE PROTEIN,Plasmodium falciparum,5833,6874,"CGMP-dependent protein kinase, Pkinase domain"
+1146,CHEMBL3486,SINGLE PROTEIN,Plasmodium falciparum,5833,1807,"Dihydroorotate dehydrogenase, DHO_dh domain"
+1126,CHEMBL2364672,PROTEIN COMPLEX,Bacteria,2,158,RNA polymerase beta/beta prime subunit
+1083,CHEMBL4614,SINGLE PROTEIN,Leishmania major,5664,2931,"Dihydrofolate reductase, DHFR_1 domain"
+1015,CHEMBL5154,SINGLE PROTEIN,Trypanosoma brucei brucei (strain 927/4 GUTat10.1),999953,3458,"Trypanothione reductase, Pyr_redox_2 domain"
+1014,CHEMBL4697,SINGLE PROTEIN,Plasmodium falciparum,5833,3015,"Hexose transporter 1, Sugar_tr domain"
+997,CHEMBL1837,SINGLE PROTEIN,Trypanosoma brucei brucei,5702,137,"Trypanothione reductase, Pyr_redox_2 domain"
+980,CHEMBL1944501,SINGLE PROTEIN,Leishmania infantum,5671,5610,"Trypanothione reductase, Pyr_redox_2 domain"
+935,CHEMBL1293190,SINGLE PROTEIN,Plasmodium falciparum 3D7,36329,4840,"Histone deacetylase, Hist_deacetyl domain"
+935,CHEMBL5541,SINGLE PROTEIN,Plasmodium falciparum,5833,3832,"Histone deacetylase, Hist_deacetyl domain"
+926,CHEMBL4687,SINGLE PROTEIN,Plasmodium falciparum,5833,3005,"Plasmepsin 1, Asp domain"
+926,CHEMBL4414,SINGLE PROTEIN,Plasmodium falciparum,5833,2730,"Plasmepsin 2, Asp domain"
+915,CHEMBL6075,SINGLE PROTEIN,Plasmodium falciparum,5833,4609,"HAP protein (Putative aspartic proteinase), Asp domain"
+879,CHEMBL4150,SINGLE PROTEIN,Plasmodium falciparum,5833,2470,"Enoyl-acyl-carrier protein reductase , adh_short_C2 domain"
+877,CHEMBL1275211,SINGLE PROTEIN,Plasmodium falciparum,5833,5160,"Enoyl-ACP reductase, adh_short_C2 domain"
+860,CHEMBL5131,SINGLE PROTEIN,Trypanosoma cruzi,5693,3435,"Trypanothione reductase, Pyr_redox_2 domain"
+832,CHEMBL5394,SINGLE PROTEIN,Crithidia fasciculata,5656,3689,"Trypanothione reductase, Pyr_redox_2 domain"
+826,CHEMBL1908387,SINGLE PROTEIN,Plasmodium falciparum (isolate 3D7),36329,5555,"Calcium-dependent protein kinase 1, Pkinase domain"
+793,CHEMBL2364705,PROTEIN COMPLEX GROUP,Nematoda,6231,7940,Beta tubulin
+790,CHEMBL1163130,SINGLE PROTEIN,Trypanosoma cruzi,5693,5506,"Bifunctional dihydrofolate reductase-thymidylate synthase, DHFR_1 domain"
+788,CHEMBL1641360,SINGLE PROTEIN,Glycine max,3847,5361,"BiP isoform A, HSP70 domain"
+781,CHEMBL5036,SINGLE PROTEIN,Eimeria tenella,5802,3347,"cGMP-dependent protein kinase, Pkinase domain"
+767,CHEMBL4916,SINGLE PROTEIN,Trypanosoma brucei brucei,5702,3229,"Fructose-bisphosphate aldoloase,  glycosomal, Glycolytic domain"
+755,CHEMBL2150832,SINGLE PROTEIN,Leishmania major,5664,6822,"Farnesyl pyrophosphate synthase, polyprenyl_synt domain"
+722,CHEMBL1293272,SINGLE PROTEIN,Escherichia coli,562,4974,"Chaperone protein dnaK, HSP70 domain"
+718,CHEMBL1075193,SINGLE PROTEIN,Trypanosoma brucei,5691,4353,"Metacaspase, Peptidase_C14 domain"
+693,CHEMBL6198,SINGLE PROTEIN,Plasmodium vivax,5855,4777,"Aspartic protease PM4, Asp domain"
+677,CHEMBL5170,SINGLE PROTEIN,Xenopus laevis,8355,3474,"beta-actin, Actin domain"
+657,CHEMBL4090,SINGLE PROTEIN,Plasmodium falciparum,5833,2409,"Protein kinase Pfmrk, Pkinase domain"
+640,CHEMBL2169723,SINGLE PROTEIN,Leishmania major,5664,6873,"Cdc2-related kinase, Pkinase domain"
+635,CHEMBL2601,SINGLE PROTEIN,Trypanosoma brucei,5691,936,"Adenosine transporter 1, Nucleoside_tran domain"
+627,CHEMBL3626,SINGLE PROTEIN,Cryptosporidium parvum,5807,1943,"Histone deacetylase , Hist_deacetyl domain"
+543,CHEMBL2683,SINGLE PROTEIN,Gallus gallus,9031,1019,"Vacuolar H(+)-transporting ATPase 116 kDa subunit, a1 isoform, V_ATPase_I domain"
+530,CHEMBL4752,SINGLE PROTEIN,Trypanosoma cruzi,5693,3068,"Farnesyl diphosphate synthase, polyprenyl_synt domain"
+526,CHEMBL2364705,PROTEIN COMPLEX GROUP,Nematoda,6231,7934,Beta tubulin
+506,CHEMBL5648,SINGLE PROTEIN,Plasmodium falciparum,5833,3958,"Purine nucleoside phosphorylase, PNP_UDP_1 domain"
+498,CHEMBL5833,SINGLE PROTEIN,Trypanosoma cruzi,5693,4277,"Farnesyl synthetase, putative, polyprenyl_synt domain"
+479,CHEMBL2425,SINGLE PROTEIN,Toxoplasma gondii,5811,766,"Dihydrofolate reductase, Thymidylat_synt domain"
+479,CHEMBL2425,SINGLE PROTEIN,Toxoplasma gondii,5811,766,"Dihydrofolate reductase, DHFR_1 domain"
+441,CHEMBL1075255,SINGLE PROTEIN,Schizosaccharomyces pombe 972h-,284812,4562,"Casein kinase II subunit alpha, Pkinase domain"
+437,CHEMBL4514,SINGLE PROTEIN,Zea mays,4577,2831,"Casein kinase II alpha, Pkinase domain"
+434,CHEMBL6110,SINGLE PROTEIN,Schistosoma mansoni,6183,4661,"Thioredoxin glutathione reductase, Pyr_redox_2 domain"
+427,CHEMBL6043,SINGLE PROTEIN,Elizabethkingia meningoseptica,238,4577,"Prolyl endopeptidase, Peptidase_S9 domain"
+425,CHEMBL1293271,SINGLE PROTEIN,Candida dubliniensis (strain CD36 / CBS 7987 / NCPF 3949 / NRRLY-17841) (Yeast),573826,4973,"Serine/threonine-protein phosphatase, Metallophos domain"
+415,CHEMBL1781862,SINGLE PROTEIN,Toxoplasma gondii,5811,4906,"Calmodulin-domain protein kinase 1, Pkinase domain"
+407,CHEMBL3327,SINGLE PROTEIN,Cryptosporidium hominis,237895,1647,"Dihydrofolate reductase, DHFR_1 domain"
+398,CHEMBL5834,SINGLE PROTEIN,Trypanosoma cruzi,5693,4278,"Triosephosphate isomerase, glycosomal, TIM domain"
+381,CHEMBL4512,SINGLE PROTEIN,Plasmodium falciparum,5833,2829,"Fatty acid synthase, FabA domain"
+366,CHEMBL1250368,SINGLE PROTEIN,Toxoplasma gondii,5811,5226,"Enoyl-acyl carrier reductase, adh_short_C2 domain"
+366,CHEMBL2526,SINGLE PROTEIN,Saccharomyces cerevisiae S288c,559292,865,"Methionine aminopeptidase 1, Peptidase_M24 domain"
+363,CHEMBL3085612,SINGLE PROTEIN,Pneumocystis carinii,4754,8246,"Thymidylate synthase, Thymidylat_synt domain"
+346,CHEMBL1075069,SINGLE PROTEIN,Emericella nidulans,162425,4168,"RmtA, Methyltransf_31 domain"
+344,CHEMBL1908388,SINGLE PROTEIN,Plasmodium falciparum (isolate 3D7),36329,5556,"Cell division control protein 2 homolog, Pkinase domain"
+318,CHEMBL3564,SINGLE PROTEIN,Thermus aquaticus,271,1885,"Taq polymerase 1, DNA_pol_A domain"
+316,CHEMBL6051,SINGLE PROTEIN,Toxoplasma gondii,5811,4585,"Mitogen-activated protein kinase 1, Pkinase domain"
+315,CHEMBL5831,SINGLE PROTEIN,Toxoplasma gondii,5811,4275,"Farnesyl diphosphate synthase, polyprenyl_synt domain"
+307,CHEMBL5560,SINGLE PROTEIN,Zea mays,4577,3851,"CaM kinase I alpha, Pkinase domain"
+289,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7465,16S ribosomal RNA
+289,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7465,23S ribosomal RNA
+287,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7643,23S ribosomal RNA
+287,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7771,50S ribosomal protein L3
+285,CHEMBL4119,SINGLE PROTEIN,Saccharomyces cerevisiae S288c,559292,2437,"Glutathione reductase, Pyr_redox_2 domain"
+284,CHEMBL1075033,SINGLE PROTEIN,Triticum aestivum,4565,4048,"Calcium dependent protein kinase, Pkinase domain"
+283,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7716,50S ribosomal protein L3
+280,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7517,23S ribosomal RNA
+277,CHEMBL2364703,PROTEIN COMPLEX GROUP,Trichophyton,5550,7928,Beta tubulin
+276,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7544,16S/23S ribosomal RNA interface
+276,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7544,30S ribosomal protein S1
+267,CHEMBL2364705,PROTEIN COMPLEX GROUP,Nematoda,6231,7939,Beta tubulin
+263,CHEMBL1795136,SINGLE PROTEIN,Gallus gallus,9031,5733,"Fatty acid synthase, adh_short domain"
+261,CHEMBL2987,SINGLE PROTEIN,Zymomonas mobilis (strain ATCC 31821 / ZM4 / CP4),264203,1318,"tRNA-guanine transglycosylase, TGT domain"
+254,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7575,30S ribosomal protein S1
+254,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7575,16S/23S ribosomal RNA interface
+250,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7707,50S ribosomal protein L3
+249,CHEMBL2311226,SINGLE PROTEIN,Dictyostelium discoideum,44689,7212,"Glycogen synthase kinase-3, Pkinase domain"
+241,CHEMBL1075088,SINGLE PROTEIN,Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd),71421,4234,"Cysteine synthase, PALP domain"
+240,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7762,50S ribosomal protein L3
+238,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7507,23S ribosomal RNA
+237,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7617,23S ribosomal RNA
+230,CHEMBL4668,SINGLE PROTEIN,Toxoplasma gondii,5811,2986,"Purine nucleoside phosphorylase, PNP_UDP_1 domain"
+225,CHEMBL2176838,SINGLE PROTEIN,Xenopus laevis,8355,7052,"Aurora kinase B-A, Pkinase domain"
+224,CHEMBL6169,SINGLE PROTEIN,Plasmodium falciparum,5833,4748,"Putative uncharacterized protein pk7, Pkinase domain"
+221,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7455,16S ribosomal RNA
+221,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7455,23S ribosomal RNA
+219,CHEMBL2424511,SINGLE PROTEIN,Plasmodium falciparum (isolate 3D7),36329,8216,"3-oxoacyl-(Acyl-carrier protein) reductase, adh_short domain"
+217,CHEMBL4513,SINGLE PROTEIN,Plasmodium falciparum,5833,2830,"3-oxoacyl-acyl-carrier protein reductase , adh_short domain"
+215,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7633,23S ribosomal RNA
+213,CHEMBL3701,SINGLE PROTEIN,Luciola lateralis,7052,2016,"Luciferase, AMP-binding domain"
+213,CHEMBL5150,SINGLE PROTEIN,Photuris pennsylvanica,41716,3454,"Luciferin 4-monooxygenase, AMP-binding domain"
+213,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7566,30S ribosomal protein S1
+213,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7566,16S/23S ribosomal RNA interface
+211,CHEMBL6057,SINGLE PROTEIN,Saccharomyces cerevisiae S288c,559292,4591,"Lactoylglutathione lyase, Glyoxalase domain"
+210,CHEMBL5567,SINGLE PROTEIN,Photinus pyralis,7054,3858,"Luciferin 4-monooxygenase, AMP-binding domain"
+195,CHEMBL2364705,PROTEIN COMPLEX GROUP,Nematoda,6231,7938,Beta tubulin
+192,CHEMBL1075025,SINGLE PROTEIN,Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4),170187,4040,"Undecaprenyl pyrophosphate synthase, Prenyltransf domain"
+192,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7697,50S ribosomal protein L3
+191,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7596,16S/23S ribosomal RNA interface
+191,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7596,30S ribosomal protein S1
+189,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7727,50S ribosomal protein L3
+187,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7537,23S ribosomal RNA
+185,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7783,50S ribosomal protein L3
+181,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7655,23S ribosomal RNA
+179,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7486,23S ribosomal RNA
+177,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7476,16S ribosomal RNA
+177,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7476,23S ribosomal RNA
+176,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7509,23S ribosomal RNA
+174,CHEMBL2364703,PROTEIN COMPLEX GROUP,Trichophyton,5550,7929,Beta tubulin
+173,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7756,50S ribosomal protein L3
+172,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7699,50S ribosomal protein L3
+164,CHEMBL2982,SINGLE PROTEIN,Toxoplasma gondii,5811,1313,"Adenosine kinase, PfkB domain"
+162,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7677,50S ribosomal protein L3
+159,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7701,50S ribosomal protein L3
+158,CHEMBL2111410,PROTEIN COMPLEX,Saccharomyces cerevisiae S288c,559292,3880,"Pho80/Pho85/Pho81 complex, Pkinase domain"
+158,CHEMBL5589,SINGLE PROTEIN,Saccharomyces cerevisiae S288c,559292,3880,"Cyclin-dependent protein kinase PHO85, Pkinase domain"
+156,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7757,50S ribosomal protein L3
+155,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7511,23S ribosomal RNA
+155,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7725,50S ribosomal protein L3
+155,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7625,23S ribosomal RNA
+150,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7568,30S ribosomal protein S1
+150,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7447,23S ribosomal RNA
+150,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7447,16S ribosomal RNA
+150,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7568,16S/23S ribosomal RNA interface
+149,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7586,30S ribosomal protein S1
+149,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7526,23S ribosomal RNA
+149,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7586,16S/23S ribosomal RNA interface
+147,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7781,50S ribosomal protein L3
+147,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7449,23S ribosomal RNA
+147,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7449,16S ribosomal RNA
+146,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7448,16S ribosomal RNA
+146,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7448,23S ribosomal RNA
+146,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7488,23S ribosomal RNA
+146,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7627,23S ribosomal RNA
+143,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7546,16S/23S ribosomal RNA interface
+143,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7604,23S ribosomal RNA
+143,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7546,30S ribosomal protein S1
+140,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7569,16S/23S ribosomal RNA interface
+140,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7569,30S ribosomal protein S1
+140,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7626,23S ribosomal RNA
+139,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7735,50S ribosomal protein L3
+136,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7427,23S ribosomal RNA
+136,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7427,16S ribosomal RNA
+131,CHEMBL4258,SINGLE PROTEIN,Bacillus lentus,1467,2577,"Subtilisin, Peptidase_S8 domain"
+127,CHEMBL5213,SINGLE PROTEIN,Saccharomyces cerevisiae S288c,559292,3513,"Cell division control protein 28, Pkinase domain"
+125,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7700,50S ribosomal protein L3
+122,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7708,50S ribosomal protein L3
+119,CHEMBL1667669,SINGLE PROTEIN,Legionella pneumophila,446,5255,"Outer membrane protein MIP, FKBP_C domain"
+118,CHEMBL1075045,SINGLE PROTEIN,Bacillus anthracis,1392,4108,"Dihydropteroate synthase, Pterin_bind domain"
+117,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7706,50S ribosomal protein L3
+117,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7510,23S ribosomal RNA
+116,CHEMBL2176859,SINGLE PROTEIN,Staphylococcus aureus,1280,7073,"Enoyl-[acyl-carrier-protein] reductase [NADPH], adh_short_C2 domain"
+115,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7506,23S ribosomal RNA
+113,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7565,30S ribosomal protein S1
+113,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7761,50S ribosomal protein L3
+113,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7565,16S/23S ribosomal RNA interface
+113,CHEMBL1687683,SINGLE PROTEIN,Staphylococcus aureus,1280,5238,"Enoyl-ACP reductase, adh_short_C2 domain"
+112,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7444,23S ribosomal RNA
+112,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7444,16S ribosomal RNA
+112,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7518,23S ribosomal RNA
+111,CHEMBL4385,SINGLE PROTEIN,Saccharomyces cerevisiae S288c,559292,2701,"Isoprenylcysteine carboxyl methyltransferase, ICMT domain"
+110,CHEMBL5662,SINGLE PROTEIN,Mycobacterium tuberculosis,1773,3972,"2,3-dihydroxybenzoate-AMP ligase, AMP-binding domain"
+107,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,252,30S ribosomal protein S1
+107,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,252,16S/23S ribosomal RNA interface
+105,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7696,50S ribosomal protein L3
+104,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7634,23S ribosomal RNA
+100,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7430,23S ribosomal RNA
+100,CHEMBL1075070,SINGLE PROTEIN,Engyodontium album,37998,4169,"Proteinase K, Peptidase_S8 domain"
+100,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7430,16S ribosomal RNA
+99.8,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7576,16S/23S ribosomal RNA interface
+99.8,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7763,50S ribosomal protein L3
+99.8,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7576,30S ribosomal protein S1
+97.8,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7491,23S ribosomal RNA
+96.7,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7607,23S ribosomal RNA
+93.6,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7456,23S ribosomal RNA
+93.6,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7456,16S ribosomal RNA
+93.2,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7754,50S ribosomal protein L3
+92.4,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7623,23S ribosomal RNA
+92.4,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7758,50S ribosomal protein L3
+92,CHEMBL5767,SINGLE PROTEIN,Mycobacterium tuberculosis,1773,4151,"PROBABLE TRANSMEMBRANE CARBONIC ANHYDRASE (CARBONATE DEHYDRATASE) (CARBONIC DEHYDRATASE), Pro_CA domain"
+91.3,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7681,50S ribosomal protein L3
+91.3,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7682,50S ribosomal protein L3
+89.7,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7452,23S ribosomal RNA
+89.7,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7452,16S ribosomal RNA
+89.4,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7632,23S ribosomal RNA
+88.6,CHEMBL5418,SINGLE PROTEIN,Amphiuma tridactylum,8313,3712,"Sodium/hydrogen exchanger, Na_H_Exchanger domain"
+87.4,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7549,30S ribosomal protein S1
+87.4,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7549,16S/23S ribosomal RNA interface
+87,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7515,23S ribosomal RNA
+85.5,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7630,23S ribosomal RNA
+83.6,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7760,50S ribosomal protein L3
+83.2,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7608,23S ribosomal RNA
+83.2,CHEMBL2111410,PROTEIN COMPLEX,Saccharomyces cerevisiae S288c,559292,5179,"Pho80/Pho85/Pho81 complex, Pkinase domain"
+82.8,CHEMBL1293245,SINGLE PROTEIN,Danio rerio,7955,4922,"Ion channel NompC, Ion_trans domain"
+81.6,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7740,50S ribosomal protein L3
+81.6,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7492,23S ribosomal RNA
+80.9,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7739,50S ribosomal protein L3
+80.5,CHEMBL6045,SINGLE PROTEIN,Drosophila melanogaster,7227,4579,"Ryanodine receptor 44F, Ion_trans domain"
+80.1,CHEMBL2242731,SINGLE PROTEIN,Zea mays,4577,7160,"Protoporphyrinogen IX oxidase, Amino_oxidase domain"
+78.6,CHEMBL2366455,SINGLE PROTEIN,Nicotiana tabacum,4097,8010,"Protoporphyrinogen oxidase, chloroplastic, Amino_oxidase domain"
+78.2,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7431,16S ribosomal RNA
+78.2,CHEMBL6069,SINGLE PROTEIN,Mycobacterium tuberculosis,1773,4603,"Pantothenate synthetase, Pantoate_ligase domain"
+78.2,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7431,23S ribosomal RNA
+77,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7742,50S ribosomal protein L3
+76.6,CHEMBL4740,SINGLE PROTEIN,Cryptosporidium parvum,5807,3057,"Histone deacetylase, Hist_deacetyl domain"
+76.3,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7765,50S ribosomal protein L3
+75.1,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7520,23S ribosomal RNA
+73.2,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7631,23S ribosomal RNA
+72.4,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7458,23S ribosomal RNA
+72.4,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7458,16S ribosomal RNA
+70.1,CHEMBL1075068,SINGLE PROTEIN,Drosophila melanogaster,7227,4167,"Diacylglycerol kinase 1, DAGK_cat domain"
+69.7,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7539,23S ribosomal RNA
+69.7,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7684,50S ribosomal protein L3
+69.3,CHEMBL4615,SINGLE PROTEIN,Bacillus subtilis (strain 168),224308,2932,"NH(3)-dependent NAD(+) synthetase, NAD_synthase domain"
+68.9,CHEMBL5166,SINGLE PROTEIN,Abelson murine leukemia virus,11788,3470,"Tyrosine-protein kinase V-ABL, Pkinase_Tyr domain"
+68.9,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7551,30S ribosomal protein S1
+68.9,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7551,16S/23S ribosomal RNA interface
+67.8,CHEMBL2331045,SINGLE PROTEIN,Drosophila melanogaster,7227,7277,"Carbonic anhydrase 2, isoform A, Carb_anhydrase domain"
+67.8,CHEMBL5124,SINGLE PROTEIN,Patiria pectinifera,7594,3429,"Cdc2, Pkinase domain"
+66.2,CHEMBL4194,SINGLE PROTEIN,Coffea arabica,13443,2513,"Alpha-galactosidase, Melibiase domain"
+65.5,CHEMBL1075260,SINGLE PROTEIN,Pichia kudriavzevii,4909,4567,"1,3-beta-D-glucan synthase subunit, Glucan_synthase domain"
+64.7,CHEMBL5217,SINGLE PROTEIN,Coffea arabica,13443,3517,"Alpha-galactosidase, Melibiase domain"
+64.7,CHEMBL1075264,SINGLE PROTEIN,Magnaporthe oryzae (strain 70-15 / FGSC 8958) (Rice blast fungus)(Pyricularia oryzae),242507,4614,"Isocitrate lyase, ICL domain"
+64.3,CHEMBL1909,SINGLE PROTEIN,Candida albicans,5476,222,"Glucan synthase , Glucan_synthase domain"
+63.9,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7463,16S ribosomal RNA
+63.9,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7463,23S ribosomal RNA
+63.5,CHEMBL4844,SINGLE PROTEIN,Candida albicans,5476,3160,"Beta-1,3-glucan synthase, Glucan_synthase domain"
+63.2,CHEMBL2037,SINGLE PROTEIN,Candida albicans,5476,374,"Beta-1,3-glucan synthase, Glucan_synthase domain"
+62,CHEMBL2364704,PROTEIN COMPLEX GROUP,Taeniidae,6208,7932,Beta tubulin
+62,CHEMBL5359,SINGLE PROTEIN,Candida albicans,5476,3655,"Isocitrate lyase, ICL domain"
+61.2,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7641,23S ribosomal RNA
+60.5,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7636,23S ribosomal RNA
+60.1,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7478,16S ribosomal RNA
+60.1,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7598,16S/23S ribosomal RNA interface
+60.1,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7598,30S ribosomal protein S1
+60.1,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7478,23S ribosomal RNA
+59.3,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7785,50S ribosomal protein L3
+58.9,CHEMBL6108,SINGLE PROTEIN,Zea mays,4577,4659,"Polyamine oxidase, Amino_oxidase domain"
+58.5,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7710,50S ribosomal protein L3
+58.5,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7755,50S ribosomal protein L3
+58.2,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7729,50S ribosomal protein L3
+57,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7738,50S ribosomal protein L3
+55.5,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7550,30S ribosomal protein S1
+55.5,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7550,16S/23S ribosomal RNA interface
+54.3,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7657,23S ribosomal RNA
+53.5,CHEMBL2364705,PROTEIN COMPLEX GROUP,Nematoda,6231,7935,Beta tubulin
+52.8,CHEMBL3695,SINGLE PROTEIN,Enterobacteria phage lambda,10710,2010,"Serine/threonine-protein phosphatase, Metallophos domain"
+50.1,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7578,30S ribosomal protein S1
+50.1,CHEMBL2363965,PROTEIN NUCLEIC-ACID COMPLEX,Mycobacterium tuberculosis,1773,7578,16S/23S ribosomal RNA interface
+50.1,CHEMBL1667699,SINGLE PROTEIN,Mycobacterium tuberculosis,1773,5090,"Isocitrate lyase, ICL domain"
+49.3,CHEMBL2725,SINGLE PROTEIN,Enterobacter cloacae,550,1061,"Beta-lactamase, Beta-lactamase domain"
+48.1,CHEMBL5923,SINGLE PROTEIN,Saccharomyces cerevisiae,4932,4418,"Aldehyde dehydrogenase 1, mitochondrial, Aldedh domain"
+47,CHEMBL2268004,SINGLE PROTEIN,Capsicum annuum,4072,7179,"Zeta-carotene desaturase, chloroplastic/chromoplastic, Amino_oxidase domain"
+47,CHEMBL1641338,SINGLE PROTEIN,Klebsiella pneumoniae,573,5263,"Class C beta-lactamase CMY-36, Beta-lactamase domain"
+45.8,CHEMBL6017,SINGLE PROTEIN,Alcaligenes sp. (strain DSM 11172) (Bordetella sp. (strain FB188)),242601,5039,"Histone deacetylase-like amidohydrolase, Hist_deacetyl domain"
+45.8,CHEMBL1255130,SINGLE PROTEIN,Citrobacter freundii,546,4812,"Beta-lactamase, Beta-lactamase domain"
+45.1,CHEMBL1681610,SINGLE PROTEIN,Danio rerio,7955,4938,"Amine oxidase [flavin-containing], Amino_oxidase domain"
+44.7,CHEMBL3499,SINGLE PROTEIN,Enterobacter cloacae,550,1820,"Beta-lactamase class C, Beta-lactamase domain"
+44.3,CHEMBL5515,SINGLE PROTEIN,Candida albicans,5476,3807,"Protein kinase C-like 1, Pkinase domain"
+43.1,CHEMBL1293319,SINGLE PROTEIN,Caenorhabditis elegans,6239,5193,"Zinc finger protein mex-5, zf-CCCH domain"
+42.7,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7470,16S ribosomal RNA
+42.7,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7470,23S ribosomal RNA
+42.4,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7532,23S ribosomal RNA
+42,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7720,50S ribosomal protein L3
+42,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7648,23S ribosomal RNA
+42,CHEMBL2363853,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pneumoniae,1313,7525,23S ribosomal RNA
+41.6,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7770,50S ribosomal protein L3
+40.4,CHEMBL2364103,PROTEIN NUCLEIC-ACID COMPLEX,Streptococcus pyogenes,1314,7777,50S ribosomal protein L3
+39.3,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7472,16S ribosomal RNA
+39.3,CHEMBL2363135,PROTEIN NUCLEIC-ACID COMPLEX,Bacteria,2,7472,23S ribosomal RNA
+38.5,CHEMBL3062,SINGLE PROTEIN,Gallus gallus,9031,1390,"Myosin light chain kinase, smooth muscle, Pkinase domain"
+38.5,CHEMBL2364096,PROTEIN NUCLEIC-ACID COMPLEX,Staphylococcus aureus,1280,7721,50S ribosomal protein L3
+38.1,CHEMBL2575,SINGLE PROTEIN,Gallus gallus,9031,912,"Dihydrofolate reductase, DHFR_1 domain"
+37.4,CHEMBL2565,SINGLE PROTEIN,Staphylococcus aureus,1280,902,"Penicillin-binding protein 2b, Transpeptidase domain"
+37.4,CHEMBL4269,SINGLE PROTEIN,Staphylococcus aureus,1280,2588,"Penicillin-binding protein 3, Transpeptidase domain"
+33.9,CHEMBL2364022,PROTEIN NUCLEIC-ACID COMPLEX,Pseudomonas aeruginosa,287,7642,23S ribosomal RNA
