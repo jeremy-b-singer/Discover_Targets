@@ -1,5 +1,9 @@
-# genome.filename="C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Plasmodium_falciparum.ASM276v1.28.dna.genome.fa" 
-genome.filename="C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Chlamydia_trachomatis_d_uw_3_cx.ASM872v1.dna.chromosome.Chromosome.fa"
+#genome.filename="C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Plasmodium_falciparum.ASM276v1.28.dna.genome.fa" 
+#genome.filename="C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Chlamydia_trachomatis_d_uw_3_cx.ASM872v1.dna.chromosome.Chromosome.fa"
+#genome.filename="C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Leishmania_major.ASM272v2.dna.toplevel.fa"
+#genome.filename="C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Trypanosoma_brucei.TryBru_Apr2005_chr11.dna.toplevel.fa"
+#genome.filename="C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Trypanosoma_cruzi_dm28c.T.cruzi.Dm28c_v01.dna.toplevel.fa"
+genome.filename="C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Toxoplasma_gondii.ToxoDB-7.1.dna.toplevel.fa"
 genome.fa=read.table(file=genome.filename,header=FALSE,sep="/",stringsAsFactors=FALSE)
 acgt=genome.fa[substr(genome.fa[,1],1,1)!=">",]
 acgt.line.chars=strsplit(acgt,"")
