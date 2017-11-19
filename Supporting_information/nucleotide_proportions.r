@@ -1,24 +1,3 @@
-#genome.filename="C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Plasmodium_falciparum.ASM276v1.28.dna.genome.fa" 
-#genome.filename="C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Chlamydia_trachomatis_d_uw_3_cx.ASM872v1.dna.chromosome.Chromosome.fa"
-#genome.filename="C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Leishmania_major.ASM272v2.dna.toplevel.fa"
-#genome.filename="C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Trypanosoma_brucei.TryBru_Apr2005_chr11.dna.toplevel.fa"
-#genome.filename="C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Trypanosoma_cruzi_dm28c.T.cruzi.Dm28c_v01.dna.toplevel.fa"
-genome.filename="C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Toxoplasma_gondii.ToxoDB-7.1.dna.toplevel.fa"
-genome.fa=read.table(file=genome.filename,header=FALSE,sep="/",stringsAsFactors=FALSE)
-acgt=genome.fa[substr(genome.fa[,1],1,1)!=">",]
-acgt.line.chars=strsplit(acgt,"")
-acgt.line.tabs=sapply(acgt.line.chars,table)
-
-acgt.matrix=matrix(ncol=5,nrow=length(acgt.line.tabs),byrow=FALSE)
-colnames(acgt.matrix)=c('A','C','G','N','T')
-for (row in 1:length(acgt.line.tabs)){
-	linetab = acgt.line.tabs[row] # table
-	linevec = unlist(linetab) # vector of integers
-	for (col in 1:length(linevec)){
-		acgt.matrix[row,names(linevec)[col]]=linevec[col]
-	}
-}
-
 sum.columns<-function(obj){
 	result.matrix=matrix(nrow=1,ncol=length(colnames(obj)))
 	colnames(result.matrix) = colnames(obj)
@@ -31,8 +10,6 @@ sum.columns<-function(obj){
 	}
 	return(result.matrix)
 }
-
-sum.columns(acgt.matrix)
 
 total.known.bp<-function(obj){
 	sum.matrix=sum.columns(obj)
@@ -54,5 +31,35 @@ proportion.bp<-function(obj){
 	return(result.matrix)
 }
 
-proportion.bp(acgt.matrix)
+genome.filename=c('C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Plasmodium_falciparum.ASM276v1.28.dna.genome.fa'
+			,"C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Chlamydia_trachomatis_d_uw_3_cx.ASM872v1.dna.chromosome.Chromosome.fa"
+			,"C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Leishmania_major.ASM272v2.dna.toplevel.fa"
+			,"C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Trypanosoma_brucei.TryBru_Apr2005_chr11.dna.toplevel.fa"
+			,"C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Trypanosoma_cruzi_dm28c.T.cruzi.Dm28c_v01.dna.toplevel.fa"
+			,"C:/Users/Jeremy-satellite/Documents/bio research/malaria/genome/Toxoplasma_gondii.ToxoDB-7.1.dna.toplevel.fa"
+			)
+genome.names=c('malaria','chlamidia','leishmania','brucei','cruzi','toxoplasmosis')
 
+genome.total=integer(length(genome.filename))
+names(genome.total)=genome.names
+prop=list(length(genome.filename))
+
+for (gindex in 1:length(genome.filename)){
+	genome.fa=read.table(file=genome.filename[gindex],header=FALSE,sep="/",stringsAsFactors=FALSE)
+	acgt=genome.fa[substr(genome.fa[,1],1,1)!=">",]
+	acgt.line.chars=strsplit(acgt,"")
+	acgt.line.tabs=sapply(acgt.line.chars,table)
+
+	acgt.matrix=matrix(ncol=10,nrow=length(acgt.line.tabs),byrow=FALSE)
+	colnames(acgt.matrix)=c('A','C','G','K','M','N','R','T','W','Y')
+	for (row in 1:length(acgt.line.tabs)){
+		linetab = acgt.line.tabs[row] # table
+		linevec = unlist(linetab) # vector of integers
+		for (col in 1:length(linevec)){
+			acgt.matrix[row,names(linevec)[col]]=linevec[col]
+		}
+	}
+
+	genome.total[gindex] = total.known.bp(acgt.matrix)[1]
+	prop[[gindex]]=proportion.bp(acgt.matrix)
+}
