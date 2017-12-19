@@ -16,9 +16,10 @@ for (org_num in 1:length(org.tiers)){
   h= hist(log(stats$score),breaks=length(stats$score)/20,main= paste("Histogram log(score) for",organism ))
   
   xmean=match(max(h$counts),h$counts)
+  d=mad(log(stats$score))*1.25
 
   n=function(x){
-    dnorm(x,mean=h$mids[xmean],sd=d) * max(h$counts) * dmax
+    dnorm(x,mean=h$mids[xmean],sd=d) * max(h$counts) * dmax*.8 
   }
   
   n2=function(x){
@@ -26,24 +27,19 @@ for (org_num in 1:length(org.tiers)){
   }
   
   n3=function(x){
-    dnorm(x,mean=median(log(stats$score)),sd=mad(log(stats$score))*1.1) * max(h$counts)*dmax*.68
+    dnorm(x,mean=median(log(stats$score)),sd=mad(log(stats$score))*1.2) * max(h$counts)*dmax*.68
   }
   
   curve(n,from=3,to=8,add=TRUE,col='red')
-  curve(n3,from=3,to=8,add=TRUE,col='orange')
-  #curve(n2,from=3,to=8,add=TRUE,col='orange')
+  x=sapply(1:4,function(m){
+    median(log(stats$score))+mad(log(stats$score))*m
+  })
   
-  #for(tier_num in 1:length(org.tiers[[org_num]]$threshold_list)){
-  #  thresh=org.tiers[[org_num]]$threshold_list[[tier_num]]
-  #  abline(v=log(thresh),col='red')
-  #}
-  #invisible(readline(prompt="Press [enter] to continue"))
-  #tier2.stats=stats[stats$score > org.tiers[[org_num]]$threshold_list[[2]],]
-  #hist(log(tier2.stats$score),main=paste("Histogram log(score) for",organism, ' tier2' ),breaks=max(dim(tier2.stats)[1]/20,100))
-  #for(tier_num in 2:length(org.tiers[[org_num]]$threshold_list)){
-  # thresh=org.tiers[[org_num]]$threshold_list[[tier_num]]
-   # abline(v=log(thresh),col='red')
-  #}
+  text(x,y=max(h$counts), labels=1:4)
+  
+  sapply(1:4,function(m){
+    abline(v=median(log(stats$score))+mad(log(stats$score))*m, col='blue')
+  })
   invisible(readline(prompt="Press [enter] to continue"))
 }
 
